@@ -2,7 +2,7 @@
     <string name="app_name">MeuApp</string>
     <string name="btn_login">Login</string>
     <string name="btn_send">Entrar</string>
-    <string name="txt_welcome">Bem-vindo </string>
+    <string name="txt_welcome">Bem-vindo</string>
     <string name="btn_back">Voltar para Home</string>
     <string name="btn_logout">Sair</string>
 </resources>
